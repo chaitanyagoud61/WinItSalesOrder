@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sales Order</string>
+    <string name="clearall">Clear All</string>
+    <string name="search">Search by Name Code</string>
+    <string name="items">ITEMS</string>
+    <string name="orderqnty">ORDER QTY</string>
+    <string name="ttlprice">TOTAL PRICE</string>
+    <string name="net">NET</string>
+    <string name="ttl_lines">TOTAL LINES</string>
+    <string name="unitprice">Unit price :</string>
+    <string name="selectbrnd">Please select brand to load items </string>
+</resources>
